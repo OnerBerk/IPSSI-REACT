@@ -1,0 +1,22 @@
+.connection-form {
+  border: 1px solid #8c8080;
+  padding: 1em;
+  div{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1em;
+    label{
+      font-weight: 600;
+      margin-right: 1em;
+    }
+  }
+    button{
+      cursor: pointer;
+      border: none;
+      outline: none;
+      border-radius: 5px;
+      padding: 0.5em;
+      color: whitesmoke;
+      background-color: #7878e5;
+    }
+}
